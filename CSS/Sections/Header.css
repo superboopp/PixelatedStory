@@ -6,7 +6,7 @@
 	background-position: top;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	background-image: url(../Images/background.webp);
+	background-image: url(/Images/background.webp);
 }
 
 .header-text {
